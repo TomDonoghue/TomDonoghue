@@ -1,6 +1,6 @@
 # Roadmap
 
-A quick map of my code and any thing else of mine that found it's way onto Github. 
+A quick map of my code and any thing else of mine that found it's way onto Github. Broadly, all contributions are either my [profile](https://github.com/TomDonoghue), on the Voytek lab's [organization](https://github.com/voytekresearch), or on one of the class organizations I work on, Introduction to Python ([COGS18](https://github.com/COGS18)) or Hands-On Data Science ([COGS108](https://github.com/COGS108)).
 
 ## Python Modules
 
