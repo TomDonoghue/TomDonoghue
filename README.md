@@ -6,11 +6,11 @@ A quick map of my code and any thing else of mine that found it's way onto Githu
 
 ### FOOOF
 
-As part of the Voytek Lab I am lead developed of the [fooof](https://github.com/voytekresearch/fooof) package, a tool for parameterizing neural power spectra. FOOOF is available on [PYPI](https://pypi.org/project/fooof/).
+As part of the Voytek Lab I am lead developed of the [fooof](https://github.com/fooof-tools/fooof) package, a tool for parameterizing neural power spectra. FOOOF is available on [PYPI](https://pypi.org/project/fooof/).
 
 ### LISC
 
-[LIterature SCanner](https://github.com/TomDonoghue/lisc) is a Python module for collecting and meta-analyzing scientific literature, built on top of the Pubmed E-Utils API. 
+[LIterature SCanner](https://github.com/lisc-tools/lisc) is a Python module for collecting and meta-analyzing scientific literature, built on top of the Pubmed E-Utils API. 
 
 ### neurodsp
 
@@ -30,11 +30,11 @@ To organize and systematize our behvioural experiments, including experiments ru
 
 ### Introduction to Programming with Python (COGS18)
 
-I teach an introductory class on programming with Python (COGS18 @ UCSD). All of the materials for this class are available in the class [Github Organization](https://github.com/COGS18), including the [overview](https://github.com/COGS18/Overview) and [tutorials](https://github.com/COGS18/Tutorials). 
+I teach an introductory class on programming with Python (COGS18 @ UCSD). All of the materials for this class are available in the class [Github Organization](https://github.com/COGS18), including the [overview](https://github.com/COGS18/Overview) and [course materials](https://github.com/COGS18/Materials). This class is also hosted on the course [website](https://cogs18.github.io). 
 
 ### Hands-On Data Science (COGS108)
 
-I developed a lot of materials for a hands-on data science class (COGS 108 @ UCSD, with Professor Bradley Voytek), all of which are available [here](https://github.com/COGS108), and in particular the hands-on tutorials are available [here](https://github.com/COGS108/SectionMaterials). 
+I developed a lot of materials for a hands-on data science class (COGS 108 @ UCSD, with Professor Bradley Voytek), all of which are available [here](https://github.com/COGS108), and in particular the hands-on tutorials are available [here](https://github.com/COGS108/Tutorials). 
 
 ### Introduction to Cognitive Science
 
