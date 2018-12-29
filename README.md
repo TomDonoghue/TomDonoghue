@@ -1,6 +1,8 @@
 # Roadmap
 
-A quick map of my code and any thing else of mine that found it's way onto Github. Broadly, all contributions are either my [profile](https://github.com/TomDonoghue), on the Voytek lab's [organization](https://github.com/voytekresearch), or on one of the class organizations I work on, Introduction to Python ([COGS18](https://github.com/COGS18)) or Hands-On Data Science ([COGS108](https://github.com/COGS108)).
+A quick map of my code and any thing else of mine that found it's way onto Github. 
+
+Broadly, all contributions are either my [profile](https://github.com/TomDonoghue), on the Voytek lab's [organization](https://github.com/voytekresearch), or on one of the class organizations I work on, Introduction to Python ([COGS18](https://github.com/COGS18)) or Hands-On Data Science ([COGS108](https://github.com/COGS108)).
 
 ## Python Modules
 
@@ -12,7 +14,7 @@ As part of the Voytek Lab I am lead developed of the [fooof](https://github.com/
 
 [LIterature SCanner](https://github.com/lisc-tools/lisc) is a Python module for collecting and meta-analyzing scientific literature, built on top of the Pubmed E-Utils API. 
 
-### neurodsp
+### NeuroDSP
 
 As part of the Voytek Lab I am a contributor to the [neurodsp](https://github.com/voytekresearch/neurodsp) package, for time-series analysis of neuroscientific data. Neurodsp is available on [PYPI](https://pypi.org/project/neurodsp/).
 
