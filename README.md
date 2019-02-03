@@ -1,10 +1,18 @@
 # Roadmap
 
-A quick map of my code and any thing else of mine that found it's way onto Github. 
+A quick map of code and any things that have found their way onto Github. 
 
 Broadly, all contributions are either my [profile](https://github.com/TomDonoghue), on the Voytek lab's [organization](https://github.com/voytekresearch), or on one of the class organizations I work on, Introduction to Python ([COGS18](https://github.com/COGS18)) or Hands-On Data Science ([COGS108](https://github.com/COGS108)).
 
-## Python Modules
+## Table of Contents
+
+- [Open Source Packages](#open-source-packages)
+- [Code Templates](#code-templates)
+- [Research Projects](#research-projects)
+- [Teaching Materials](#teaching-materials)
+- [Collections](#collections)
+
+## Open Source Packages
 
 ### FOOOF
 
@@ -16,19 +24,26 @@ As part of the Voytek Lab I am lead developed of the [fooof](https://github.com/
 
 ### NeuroDSP
 
-As part of the Voytek Lab I am a contributor to the [neurodsp](https://github.com/voytekresearch/neurodsp) package, for time-series analysis of neuroscientific data. Neurodsp is available on [PYPI](https://pypi.org/project/neurodsp/).
+As part of the Voytek Lab I am a contributor to the [neurodsp](https://github.com/neurodsp-tools/neurodsp) package, for time-series analysis of neuroscientific data. Neurodsp is available on [PYPI](https://pypi.org/project/neurodsp/).
 
-## Neuroscience Research (Projects)
+## Code Templates
+
+### Psychopy Templates
+
+Some standard templates we use running behavioural experiments, including experiments run with EEG, and online BCI components,
+as [psychopy templates](https://github.com/TomDonoghue/psychopy_templates). 
+
+### EEG Templates
+
+Standard templates we use for [pre-processing EEG data](https://github.com/TomDonoghue/EEGTemplates). 
+
+## Research Projects
 
 ### ERP-SCANR
 
 A [repository](https://github.com/TomDonoghue/ERP_SCANR) for the ERP-SCANR project, mining the existing literature to derive data-driven descriptions and comparisons of event-related potentials (ERPs). Project site [here](http://tomdonoghue.github.io/ERP_SCANR/)
 
-### Psychopy Templates
-
-To organize and systematize our behvioural experiments, including experiments run with EEG, and online BCI components, I have developed some [psychopy templates](https://github.com/TomDonoghue/psychopy_templates), that are openly available.
-
-## Teaching Materials & Tutorials
+## Teaching Materials
 
 ### Introduction to Programming with Python (COGS18)
 
