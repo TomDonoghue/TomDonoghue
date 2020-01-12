@@ -52,9 +52,19 @@ A template for [behavioural tasks](https://github.com/StructuredScience/TaskTemp
 
 My research projects are mostly hosted on my own [profile](https://github.com/TomDonoghue) and/or on the Voytek lab's [organization](https://github.com/voytekresearch). Projects released through the Voytek lab are also indexed [here](https://github.com/voytekresearch/VoytekLab). 
 
+### Band Ratios
+
+The BandRatios project exploring properties of band ratio measures in electrophysiological data, and comparing them to spectral features.
+
+Work with: Julio Dominguez & Bradley Voytek
+
+[Repository](https://github.com/voytekresearch/BandRatios)
+
 ### ERP-SCANR
 
 The ERP-SCANR project is a project that mines the scientific literature to derive data-driven descriptions and comparisons of event-related potentials (ERPs).
+
+Work with: Bradley Voytek
 
 [Repository](https://github.com/TomDonoghue/ERP_SCANR) - [WebSite](http://tomdonoghue.github.io/ERP_SCANR/)
 
