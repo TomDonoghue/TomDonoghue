@@ -1,6 +1,6 @@
 # Roadmap
 
-A quick map of code and other things that have found their way onto Github.
+A quick map of code and other things that are avaialable on Github.
 
 ## Table of Contents
 
@@ -57,12 +57,19 @@ My research projects are mostly hosted on my own
 Projects released through the Voytek lab are also indexed 
 [here](https://github.com/voytekresearch/VoytekLab). 
 
+### Parameterizing Neural Power Spectra
+
+The Parameterizing Neural Power Spectra project explores a proposed method for measuring periodic and aperiodic activity in neural power spectra, and demonstrates a series of applications of the method.
+
+[Repository](https://github.com/fooof-tools/Paper) - 
+[Paper](https://doi.org/10.1038/s41593-020-00744-x)
+
 ### Band Ratios
 
 The BandRatios project explores properties of band ratio measures in electrophysiological data, and compares them to spectral features.
 
 [Repository](https://github.com/voytekresearch/BandRatios) - 
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.01.11.900977v1)
+[Paper](https://doi.org/10.1523/ENEURO.0192-20.2020)
 
 ### ERP-SCANR
 
@@ -71,33 +78,30 @@ The ERP-SCANR project is a project that mines the scientific literature to deriv
 [Repository](https://github.com/TomDonoghue/ERP_SCANR) - 
 [WebSite](http://tomdonoghue.github.io/ERP_SCANR/)
 
-### Parameterizing Neural Power Spectra
-
-The Parameterizing Neural Power Spectra project explores a proposed method for measuring periodic and aperiodic activity in neural power spectra, and demonstrates a series of applications of the method.
-
-[Repository](https://github.com/fooof-tools/Paper) - 
-[Preprint](https://www.biorxiv.org/content/10.1101/299859v1)
-
 ## Teaching Materials
 
 I work on educational materials and course development, mostly for learning and teaching programming, data science, and cognitive science. 
 
 ### Introduction to Programming with Python (COGS18)
 
-I developed and teach an introductory class on programming with Python for cognitive scientists, which is listed as COGS18 in the Department of Cognitive Science at the University of California, San Diego. 
+I developed an introductory class on programming with Python for cognitive scientists in the Department of Cognitive Science at UC San Diego.
 
 [Home](https://github.com/COGS18) - 
 [Overview](https://github.com/COGS18/Overview)  - 
 [Materials](https://github.com/COGS18/Materials) - 
 [WebSite](https://cogs18.github.io)
 
+There is also a [public website](https://introductorypython.github.io/) that hosts these materials. 
+
 ### Hands-On Data Science (COGS108)
 
-I developed materials for a hands-on data science class, which is listed as COGS 108 in the Department of Cognitive Science at the University of California, San Diego. This course was created by Professor Bradley Voytek. 
+I developed materials for a hands-on data science class, which is listed as COGS 108 in the Department of Cognitive Science at UC San Diego. This course was created by Professor Bradley Voytek. 
 
 [Home](https://github.com/COGS108) - 
 [Overview](https://github.com/COGS108/Overview)  - 
 [Materials](https://github.com/COGS108/Tutorials)
+
+There is also a [public website](https://datascienceinpractice.github.io/) that hosts these materials. 
 
 ### Introduction to Cognitive Science
 
