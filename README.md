@@ -1,6 +1,6 @@
 ### Hello!
 
-I am Tom Donoghue, currently a PhD student at the [VoytekLab](https://voyteklab.com/), at UC San Diego. 
+I am Tom Donoghue, and I work in research in the area of computational and cognitive neuroscience. 
 
 You can find out about me on my 
 [personal website](https://tomdonoghue.github.io/), and/or check out a 
