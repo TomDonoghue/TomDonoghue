@@ -75,8 +75,8 @@ The BandRatios project explores properties of band ratio measures in electrophys
 
 The ERP-SCANR project is a project that mines the scientific literature to derive data-driven descriptions and comparisons of event-related potentials (ERPs).
 
-[Repository](https://github.com/TomDonoghue/ERP_SCANR) - 
-[WebSite](http://tomdonoghue.github.io/ERP_SCANR/)
+[Repository](https://github.com/ERPscanr/ERPscanr) - 
+[WebSite](https://erpscanr.github.io/)
 
 ## Teaching Materials
 
