@@ -1,6 +1,6 @@
 # Roadmap
 
-A quick map of code and other things that are avaialable on Github.
+A quick map of code and other things that are available on Github.
 
 ## Table of Contents
 
@@ -14,29 +14,36 @@ A quick map of code and other things that are avaialable on Github.
 I develop and maintain open-source Python packages.
 Each of the projects listed below has it's own organization. 
 
-### FOOOF
+### SpecParam (formerly 'fooof')
 
-I am lead developer of the [FOOOF](https://github.com/fooof-tools/fooof) package, a tool for parameterizing neural power spectra.
+I am lead developer of the [SpecParam](https://github.com/fooof-tools/fooof) package, a tool for parameterizing neural power spectra.
 
 [REPO](https://github.com/fooof-tools/fooof) - 
-[DOCS](https://fooof-tools.github.io/fooof/) - 
+[DOCS](https://fooof-tools.github.io/) - 
 [PYPI](https://pypi.org/project/fooof/)
-
-### LISC
-
-I am the lead developer of the [LISC](https://github.com/lisc-tools/lisc) package, a tool for collecting and analyzing scientific literature. 
-
-[REPO](https://github.com/lisc-tools/lisc) - 
-[DOCS](https://neurodsp-tools.github.io/neurodsp/) - 
-[PYPI](https://pypi.org/project/lisc/)
 
 ### NeuroDSP
 
 I am a co-developer of the [NeuroDSP](https://github.com/neurodsp-tools/neurodsp) package for time-series analysis of neuroscientific data. 
 
 [REPO](https://github.com/neurodsp-tools/neurodsp) - 
-[DOCS](https://neurodsp-tools.github.io/neurodsp/) - 
+[DOCS](https://neurodsp-tools.github.io/) - 
 [PYPI](https://pypi.org/project/neurodsp/)
+
+### LISC
+
+I am the lead developer of the [LISC](https://github.com/lisc-tools/lisc) package, a tool for collecting and analyzing scientific literature. 
+
+[REPO](https://github.com/lisc-tools/lisc) - 
+[DOCS](https://lisc-tools.github.io/) - 
+[PYPI](https://pypi.org/project/lisc/)
+
+### SpikeTools
+
+I am the lead developer of the [spiketools](https://github.com/spiketools/spiketools) package, a tool for analyzing single-unit neural data.
+
+[REPO](https://github.com/spiketools/spiketools) - 
+[DOCS](https://spiketools.github.io/)
 
 ## Templates and Resources
 
@@ -73,14 +80,23 @@ The BandRatios project explores properties of band ratio measures in electrophys
 
 ### ERP-SCANR
 
-The ERP-SCANR project is a project that mines the scientific literature to derive data-driven descriptions and comparisons of event-related potentials (ERPs).
+The ERP-SCANR project mines the scientific literature to derive data-driven descriptions and comparisons of event-related potentials (ERPs).
 
 [Repository](https://github.com/ERPscanr/ERPscanr) - 
-[WebSite](https://erpscanr.github.io/)
+[WebSite](https://erpscanr.github.io/) - 
+[Paper](https://doi.org/10.31234/osf.io/7ezmh)
+
+### Oscillation Methods
+
+The Oscillation Methods project explores methodological considerations for studying neural oscillations. 
+
+[Repository](https://github.com/OscillationsMethods/OscillationsMethods) - 
+[WebSite](https://oscillationmethods.github.io/) - 
+[Paper](https://doi.org/10.1111/ejn.15361)
 
 ## Teaching Materials
 
-I work on educational materials and course development, mostly for learning and teaching programming, data science, and cognitive science. 
+I work on educational materials and course development, for programming, data science, and cognitive science. 
 
 ### Introduction to Programming with Python (COGS18)
 
