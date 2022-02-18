@@ -55,6 +55,10 @@ I also create and curate lists of open resources on the
 [OpenLists](https://github.com/openlists) organization, 
 an overview for which is [here](https://github.com/openlists/Overview).
 
+I also create animated visualizers to demonstrate and explore principles of signal processing, 
+which are all availabe in the 
+[SigViz repository](https://github.com/TomDonoghue/SigViz). 
+
 ## Research Projects
 
 My research projects are mostly hosted on my own 
