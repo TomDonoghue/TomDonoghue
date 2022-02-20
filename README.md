@@ -49,7 +49,9 @@ here on Github.
 - [SigViz](https://github.com/TomDonoghue/SigViz): animated visualizers to for exploring digital signal processing
 [[Site](https://tomdonoghue.github.io/SigViz/)]
 - [OpenLists](https://github.com/openlists/): lists of openly available resources on a range of topics
+[[Site](https://openlists.github.io/)]
 - [StructuredScience](https://github.com/structuredscience/): a collection of tools and resources for organized computational science
+[[Site](https://structuredscience.github.io/)]
  
 ### Education
 
