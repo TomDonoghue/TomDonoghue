@@ -5,7 +5,7 @@ A quick map of code and other things that are available on Github.
 ## Table of Contents
 
 - [Open Source Packages](#open-source-packages)
-- [Templates & Resources](#templates-and-resources)
+- [Resources](#resources)
 - [Research Projects](#research-projects)
 - [Teaching Materials](#teaching-materials)
 
@@ -45,19 +45,28 @@ I am the lead developer of the [spiketools](https://github.com/spiketools/spiket
 [REPO](https://github.com/spiketools/spiketools) - 
 [DOCS](https://spiketools.github.io/)
 
-## Templates and Resources
+## Resources
 
-I create and maintain templates for projects on the 
-[StructuredScience](https://github.com/StructuredScience/) organization, 
-an overview for which is [here](https://github.com/structuredscience/Overview).
+### OpenLists
 
-I also create and curate lists of open resources on the
-[OpenLists](https://github.com/openlists) organization, 
-an overview for which is [here](https://github.com/openlists/Overview).
+OpenLists is a collection of curated lists of open resources that I maintain.
 
-I also create animated visualizers to demonstrate and explore principles of signal processing, 
-which are all availabe in the 
-[SigViz repository](https://github.com/TomDonoghue/SigViz). 
+[ORG](https://github.com/openlists) - 
+[SITE](https://openlists.github.io/)
+
+### Structured Science
+
+StructuredScience is a collection of templates and resources for organizing scientific projects. 
+
+[ORG](https://github.com/StructuredScience/) - 
+[SITE](https://github.com/structuredscience/)
+
+### Visualizations
+
+SigViz is a collection of animated visualizers to demonstrate and explore principles of signal processing. 
+
+[REPO](https://github.com/TomDonoghue/SigViz) - 
+[SITE](https://tomdonoghue.github.io/SigViz/)
 
 ## Research Projects
 
@@ -72,31 +81,31 @@ Projects released through the Voytek lab are also indexed
 
 The Parameterizing Neural Power Spectra project explores a proposed method for measuring periodic and aperiodic activity in neural power spectra, and demonstrates a series of applications of the method.
 
-[Repository](https://github.com/fooof-tools/Paper) - 
-[Paper](https://doi.org/10.1038/s41593-020-00744-x)
+[REPO](https://github.com/fooof-tools/Paper) - 
+[PAPER](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### Band Ratios
 
 The BandRatios project explores properties of band ratio measures in electrophysiological data, and compares them to spectral features.
 
-[Repository](https://github.com/voytekresearch/BandRatios) - 
-[Paper](https://doi.org/10.1523/ENEURO.0192-20.2020)
+[REPO](https://github.com/voytekresearch/BandRatios) - 
+[PAPER](https://doi.org/10.1523/ENEURO.0192-20.2020)
 
 ### ERP-SCANR
 
 The ERP-SCANR project mines the scientific literature to derive data-driven descriptions and comparisons of event-related potentials (ERPs).
 
-[Repository](https://github.com/ERPscanr/ERPscanr) - 
-[WebSite](https://erpscanr.github.io/) - 
-[Paper](https://doi.org/10.31234/osf.io/7ezmh)
+[REPO](https://github.com/ERPscanr/ERPscanr) - 
+[PAPER](https://doi.org/10.31234/osf.io/7ezmh) - 
+[SITE](https://erpscanr.github.io/)
 
 ### Oscillation Methods
 
 The Oscillation Methods project explores methodological considerations for studying neural oscillations. 
 
-[Repository](https://github.com/OscillationsMethods/OscillationsMethods) - 
-[WebSite](https://oscillationmethods.github.io/) - 
-[Paper](https://doi.org/10.1111/ejn.15361)
+[REPO](https://github.com/OscillationsMethods/OscillationsMethods) - 
+[PAPER](https://doi.org/10.1111/ejn.15361) - 
+[SITE](https://oscillationmethods.github.io/)
 
 ## Teaching Materials
 
@@ -106,22 +115,19 @@ I work on educational materials and course development, for programming, data sc
 
 I developed an introductory class on programming with Python for cognitive scientists in the Department of Cognitive Science at UC San Diego.
 
-[Home](https://github.com/COGS18) - 
-[Overview](https://github.com/COGS18/Overview)  - 
-[Materials](https://github.com/COGS18/Materials) - 
-[WebSite](https://cogs18.github.io)
-
-There is also a [public website](https://introductorypython.github.io/) that hosts these materials. 
+[HOME](https://github.com/COGS18) - 
+[OVERVIEW](https://github.com/COGS18/Overview)  - 
+[MATERIALS](https://github.com/COGS18/Materials) - 
+[SITE](https://introductorypython.github.io/)
 
 ### Hands-On Data Science (COGS108)
 
 I developed materials for a hands-on data science class, which is listed as COGS 108 in the Department of Cognitive Science at UC San Diego. This course was created by Professor Bradley Voytek. 
 
-[Home](https://github.com/COGS108) - 
-[Overview](https://github.com/COGS108/Overview)  - 
-[Materials](https://github.com/COGS108/Tutorials)
-
-There is also a [public website](https://datascienceinpractice.github.io/) that hosts these materials. 
+[HOME](https://github.com/COGS108) - 
+[OVERVIEW](https://github.com/COGS108/Overview)  - 
+[MATERIALS](https://github.com/COGS108/Tutorials) - 
+[SITE](https://datascienceinpractice.github.io/)
 
 ### Introduction to Cognitive Science
 
