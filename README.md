@@ -17,7 +17,7 @@ here on Github.
 [[Docs](https://fooof-tools.github.io/),
  [Repo](https://github.com/fooof-tools/fooof),
  [Paper](https://doi.org/10.1038/s41593-020-00744-x)]
-- [neurodsp](https://neurodsp-tools.github.io/neurodsp/): neural digital signal processing
+- [neurodsp](https://github.com/neurodsp-tools/neurodsp): neural digital signal processing
 [[Docs](https://neurodsp-tools.github.io/),
  [Repo](https://github.com/neurodsp-tools/neurodsp),
  [Paper](https://doi.org/10.21105/joss.01272)] 
