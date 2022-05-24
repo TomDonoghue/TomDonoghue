@@ -58,4 +58,4 @@ here on Github.
 - [Introductory Python](https://github.com/IntroductoryPython): introduction to the Python programming language 
 [[Site](https://introductorypython.github.io/), [Course](https://github.com/COGS18)]
 - [Data Science in Practice](https://github.com/DataScienceInPractice/): introduction to data science in Python
-[[Site](https://datascienceinpractice.github.io/), [Course](https://github.com/cogs108)]
+[[Site](https://datascienceinpractice.github.io/), [Course](https://github.com/cogs108), [Paper](https://doi.org/10.21105/jose.00121)]
