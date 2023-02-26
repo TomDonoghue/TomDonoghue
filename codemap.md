@@ -43,7 +43,8 @@ I am the lead developer of the [LISC](https://github.com/lisc-tools/lisc) packag
 I am the lead developer of the [spiketools](https://github.com/spiketools/spiketools) package, a tool for analyzing single-unit neural data.
 
 [REPO](https://github.com/spiketools/spiketools) - 
-[DOCS](https://spiketools.github.io/)
+[DOCS](https://spiketools.github.io/) - 
+[PYPI](https://pypi.org/project/spiketools/)
 
 ## Resources
 
