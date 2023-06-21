@@ -5,6 +5,7 @@ A quick map of code and other things that are available on Github.
 ## Table of Contents
 
 - [Open Source Packages](#open-source-packages)
+- [Templates and Pipelines](#templates-and-pipelines)
 - [Resources](#resources)
 - [Research Projects](#research-projects)
 - [Teaching Materials](#teaching-materials)
@@ -46,6 +47,22 @@ I am the lead developer of the [spiketools](https://github.com/spiketools/spiket
 [DOCS](https://spiketools.github.io/) - 
 [PYPI](https://pypi.org/project/spiketools/)
 
+## Templates and Pipelines
+
+### Human Single-Unit Pipeline
+
+HSUPipeline is a pipeline and associated set of tools & templates for working with single-unit data from humans. 
+
+[ORG](https://github.com/HSUpipeline/) - 
+[SITE](https://hsupipeline.github.io/)
+
+### Structured Science
+
+StructuredScience is a collection of templates and resources for organizing scientific projects. 
+
+[ORG](https://github.com/StructuredScience/) - 
+[SITE](https://github.com/structuredscience/)
+
 ## Resources
 
 ### OpenLists
@@ -54,13 +71,6 @@ OpenLists is a collection of curated lists of open resources that I maintain.
 
 [ORG](https://github.com/openlists) - 
 [SITE](https://openlists.github.io/)
-
-### Structured Science
-
-StructuredScience is a collection of templates and resources for organizing scientific projects. 
-
-[ORG](https://github.com/StructuredScience/) - 
-[SITE](https://github.com/structuredscience/)
 
 ### Visualizations
 
@@ -107,6 +117,13 @@ The Oscillation Methods project explores methodological considerations for study
 [REPO](https://github.com/OscillationsMethods/OscillationsMethods) - 
 [PAPER](https://doi.org/10.1111/ejn.15361) - 
 [SITE](https://oscillationmethods.github.io/)
+
+### Single-Unit Activity Across Tasks
+
+This project explores the activity of single-units in the medial temporal lobe across spatial and memory tasks.
+
+[REPO](https://github.com/HSUpipeline/analyzeTH) - 
+[PAPER](https://doi.org/10.1002/hipo.23539)
 
 ## Teaching Materials
 
