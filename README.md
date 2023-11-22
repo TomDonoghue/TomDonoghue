@@ -9,7 +9,7 @@ Below are some quick links to projects of interest.
 
 You can also find information on my 
 [personal website](https://tomdonoghue.github.io/), and/or check out a
-[map of my work](https://github.com/TomDonoghue/TomDonoghue/blob/master/codemap.md)
+[map of my work](https://github.com/TomDonoghue/TomDonoghue/blob/main/codemap.md)
 here on Github. 
 
 ### Open-Source Python Projects
@@ -20,7 +20,8 @@ here on Github.
  [Paper](https://doi.org/10.1038/s41593-020-00744-x)]
 - [spiketools](https://github.com/spiketools/spiketools): analyzing single-unit neural data
 [[Docs](https://spiketools.github.io/),
- [Repo](https://github.com/spiketools/spiketools)]
+ [Repo](https://github.com/spiketools/spiketools),
+ [Paper](https://doi.org/10.21105/joss.05268)]
 - [neurodsp](https://github.com/neurodsp-tools/neurodsp): neural digital signal processing
 [[Docs](https://neurodsp-tools.github.io/),
  [Repo](https://github.com/neurodsp-tools/neurodsp),
@@ -48,7 +49,8 @@ here on Github.
 
 ### Pipelines & Templates
 
-- [Human Single-Unit Pipeline](https://github.com/HSUpipeline/): a pipeline for projects analyzing single-unit activity collected from humans [[Site](https://hsupipeline.github.io/)]
+- [Human Single-Unit Pipeline](https://github.com/HSUpipeline/): a pipeline for projects analyzing single-unit activity collected from humans
+[[Site](https://hsupipeline.github.io/)]
 - [StructuredScience](https://github.com/structuredscience/): a collection of tools and resources for organized computational science
 [[Site](https://structuredscience.github.io/)]
 
@@ -62,6 +64,9 @@ here on Github.
 ### Education
 
 - [Introductory Python](https://github.com/IntroductoryPython): introduction to the Python programming language 
-[[Site](https://introductorypython.github.io/), [Course](https://github.com/COGS18)]
+[[Site](https://introductorypython.github.io/),
+ [Course](https://github.com/COGS18)]
 - [Data Science in Practice](https://github.com/DataScienceInPractice/): introduction to data science in Python
-[[Site](https://datascienceinpractice.github.io/), [Course](https://github.com/cogs108), [Paper](https://doi.org/10.21105/jose.00121)]
+[[Site](https://datascienceinpractice.github.io/),
+ [Course](https://github.com/cogs108),
+ [Paper](https://doi.org/10.21105/jose.00121)]
