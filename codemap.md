@@ -125,6 +125,28 @@ This project explores the activity of single-units in the medial temporal lobe a
 [REPO](https://github.com/HSUpipeline/analyzeTH) - 
 [PAPER](https://doi.org/10.1002/hipo.23539)
 
+### Aperiodic Methods
+
+This project is a methodological investigation of measuring aperiodic activity in neural data. 
+
+[REPO](https://github.com/HSUpipeline/analyzeTH) - 
+[PREPRINT](https://doi.org/10.1101/2024.09.15.613114) - 
+[SITE](https://aperiodicmethods.github.io/)
+
+### Aperiodic Clinical
+
+This project is a systematic review of projects investigating aperiodic neural activity in clinical investigations.
+
+[REPO](https://github.com/TomDonoghue/AperiodicClinical) - 
+[PREPRINT](https://doi.org/10.1101/2024.10.14.24314925)
+
+### Aperiodic History
+
+This project is a historical overview of studies of aperiodic neural activity.
+
+[REPO](https://github.com/TomDonoghue/AperiodicHistory) - 
+[PREPRINT](https://doi.org/10.31234/osf.io/zrvxa)
+
 ## Teaching Materials
 
 I work on educational materials and course development, for programming, data science, and cognitive science. 
