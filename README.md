@@ -1,7 +1,7 @@
 # Hello, I'm Tom Donoghue!
 
 [![Site](https://img.shields.io/badge/Site-tomdonoghue.github.io-informational.svg?color=616161&logoColor=white&labelColor=008f7b)](https://tomdonoghue.github.io/)
-[![Twitter](https://img.shields.io/badge/TomDonoghue-blue.svg?labelColor=2196F3&logo=twitter&logoColor=white&color=616161)](https://twitter.com/TomDonoghue)
+[![Bluesky](https://img.shields.io/badge/TomDonoghue-blue.svg?labelColor=2196F3&logo=bluesky&logoColor=white&color=616161)](https://bsky.app/profile/tomdonoghue.bsky.social)
 [![Scholar](https://img.shields.io/badge/GoogleScholar-black.svg?logo=googlescholar&logoColor=white&color=616161&labelColor=00BFA5)](https://scholar.google.com/citations?user=pxZ6AdsAAAAJ&hl=en)
 
 I work in research, in the area of computational and cognitive neuroscience. 
