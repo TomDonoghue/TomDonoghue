@@ -49,12 +49,12 @@ I am the lead developer of the [spiketools](https://github.com/spiketools/spiket
 
 ## Templates and Pipelines
 
-### Human Single-Unit Pipeline
+### Human Single-Neuron Pipeline
 
-HSUPipeline is a pipeline and associated set of tools & templates for working with single-unit data from humans. 
+HSNPipeline is a pipeline and associated set of tools & templates for working with single-unit data from humans. 
 
-[ORG](https://github.com/HSUpipeline/) - 
-[SITE](https://hsupipeline.github.io/)
+[ORG](https://github.com/HSNPipeline/) - 
+[SITE](https://hsnpipeline.github.io/)
 
 ### Structured Science
 
@@ -122,14 +122,14 @@ The Oscillation Methods project explores methodological considerations for study
 
 This project explores the activity of single-units in the medial temporal lobe across spatial and memory tasks.
 
-[REPO](https://github.com/HSUpipeline/analyzeTH) - 
+[REPO](https://github.com/HSNPipeline/analyzeTH) - 
 [PAPER](https://doi.org/10.1002/hipo.23539)
 
 ### Aperiodic Methods
 
 This project is a methodological investigation of measuring aperiodic activity in neural data. 
 
-[REPO](https://github.com/HSUpipeline/analyzeTH) - 
+[REPO](https://github.com/HSNPipeline/analyzeTH) - 
 [PREPRINT](https://doi.org/10.1101/2024.09.15.613114) - 
 [SITE](https://aperiodicmethods.github.io/)
 
