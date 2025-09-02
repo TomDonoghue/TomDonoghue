@@ -51,7 +51,7 @@ here on Github.
 
 ### Pipelines & Templates
 
-- [Human Single-Neuron Pipeline](https://github.com/HSNPipeline/): a pipeline for projects analyzing single-unit activity collected from humans
+- [Human Single-Neuron Pipeline](https://github.com/HSNPipeline/): a pipeline for human single-neuron projects
 [[Site](https://hsnpipeline.github.io/)]
 - [StructuredScience](https://github.com/structuredscience/): a collection of tools and resources for organized computational science
 [[Site](https://structuredscience.github.io/)]
