@@ -34,7 +34,7 @@ here on Github.
 ### Research Projects
 
 - [AperiodicHistory](https://github.com/TomDonoghue/AperiodicHistory): a historical overview of studies of aperiodic neural activity [[Repo](https://github.com/TomDonoghue/AperiodicClinical), [Preprint](https://doi.org/10.31234/osf.io/zrvxa)]
-- [AperiodicClinical](https://github.com/TomDonoghue/AperiodicClinical): a review of clinical investigations of aperiodic neural activity [[Repo](https://github.com/TomDonoghue/AperiodicClinical), [Preprint](https://doi.org/10.1101/2024.10.14.24314925)]
+- [AperiodicClinical](https://github.com/TomDonoghue/AperiodicClinical): a review of clinical investigations of aperiodic neural activity [[Repo](https://github.com/TomDonoghue/AperiodicClinical), [Paper](https://doi.org/10.1111/ejn.70255)]
 - [AperiodicMethods](https://github.com/AperiodicMethods/): methodological investigations for measuring aperiodic activity in neural data [[Site](https://aperiodicmethods.github.io/), [Repo](https://github.com/AperiodicMethods/AperiodicMethods), [Preprint](https://doi.org/10.1101/2024.09.15.613114)]
 - [OscillationMethods](https://github.com/OscillationMethods): methodological considerations for studying neural oscillations
 [[Site](https://oscillationmethods.github.io/),
