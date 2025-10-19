@@ -18,10 +18,6 @@ here on Github.
 [[Docs](https://fooof-tools.github.io/),
  [Repo](https://github.com/fooof-tools/fooof),
  [Paper](https://doi.org/10.1038/s41593-020-00744-x)]
-- [spiketools](https://github.com/spiketools/spiketools): analyzing single-unit neural data
-[[Docs](https://spiketools.github.io/),
- [Repo](https://github.com/spiketools/spiketools),
- [Paper](https://doi.org/10.21105/joss.05268)]
 - [neurodsp](https://github.com/neurodsp-tools/neurodsp): neural digital signal processing
 [[Docs](https://neurodsp-tools.github.io/),
  [Repo](https://github.com/neurodsp-tools/neurodsp),
@@ -30,6 +26,10 @@ here on Github.
 [[Docs](https://fooof-tools.github.io/),
  [Repo](https://github.com/lisc-tools/lisc),
  [Paper](https://doi.org/10.21105/joss.01674)]
+- [spiketools](https://github.com/spiketools/spiketools): analyzing single-unit neural data
+[[Docs](https://spiketools.github.io/),
+ [Repo](https://github.com/spiketools/spiketools),
+ [Paper](https://doi.org/10.21105/joss.05268)]
 
 ### Research Projects
 
@@ -49,26 +49,23 @@ here on Github.
  [Repo](https://github.com/voytekresearch/bandratios),
  [Paper](https://doi.org/10.1523/ENEURO.0192-20.2020)]
 
-### Pipelines & Templates
+### Resources
 
 - [Human Single-Neuron Pipeline](https://github.com/HSNPipeline/): a pipeline for human single-neuron projects
 [[Site](https://hsnpipeline.github.io/)]
 - [StructuredScience](https://github.com/structuredscience/): a collection of tools and resources for organized computational science
 [[Site](https://structuredscience.github.io/)]
-
-### Resources
-
-- [SigViz](https://github.com/TomDonoghue/SigViz): animated visualizers to for exploring digital signal processing
-[[Site](https://tomdonoghue.github.io/SigViz/)]
 - [OpenLists](https://github.com/openlists/): lists of openly available resources on a range of topics
 [[Site](https://openlists.github.io/)]
+- [SigViz](https://github.com/TomDonoghue/SigViz): animated visualizers to for exploring digital signal processing
+[[Site](https://tomdonoghue.github.io/SigViz/)]
 
-### Education
+### Education 
 
-- [Introductory Python](https://github.com/IntroductoryPython): introduction to the Python programming language 
-[[Site](https://introductorypython.github.io/),
- [Course](https://github.com/COGS18)]
 - [Data Science in Practice](https://github.com/DataScienceInPractice/): introduction to data science in Python
 [[Site](https://datascienceinpractice.github.io/),
  [Course](https://github.com/cogs108),
  [Paper](https://doi.org/10.21105/jose.00121)]
+- [Introductory Python](https://github.com/IntroductoryPython): introduction to the Python programming language 
+[[Site](https://introductorypython.github.io/),
+ [Course](https://github.com/COGS18)]
