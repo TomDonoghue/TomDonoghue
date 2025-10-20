@@ -57,8 +57,8 @@ here on Github.
 [[Site](https://structuredscience.github.io/)]
 - [OpenLists](https://github.com/openlists/): lists of openly available resources on a range of topics
 [[Site](https://openlists.github.io/)]
-- [SigViz](https://github.com/TomDonoghue/SigViz): animated visualizers to for exploring digital signal processing
-[[Site](https://tomdonoghue.github.io/SigViz/)]
+- [SigViz](https://github.com/TimeSeriesZoo): animated visualizers to for exploring digital signal processing
+[[Site](https://timeserieszoo.github.io/)]
 
 ### Education 
 
